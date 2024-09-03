@@ -6,7 +6,7 @@ I am a passionate B.Tech CSE student, driven by a curiosity for technology and a
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science.
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering.
 
 
 ## Tech Stack
