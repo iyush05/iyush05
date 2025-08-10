@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech CSE student, driven by a curiosity for technology and a love for reading. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![iyush05's github stats](https://github-readme-stats.vercel.app/api?username=iyush05&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=79ff97&show_icons=true)
+![iyush05's Stats](https://github-readme-stats.vercel.app/api?username=iyush05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
