@@ -13,16 +13,6 @@ I am a passionate B.Tech CSE student, driven by a curiosity for technology and a
 
 TypeScript, Nextjs, Tailwind, PostgreSQL, Prisma, Accelerate, AWS, Cloudflare workers, Javascript, redux, Nextauth
 
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
 
 
 ## 📬 Get in Touch
