@@ -1,38 +1,63 @@
 # Hi, I'm Ayush Kannaujiya! 👋
 
-I am a passionate B.Tech CSE student, driven by a curiosity for technology and a love for reading. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate B.Tech CSE student and full-stack engineer, driven by curiosity for technology and a strong interest in building impactful software. I love exploring systems deeply — from backend architecture to AI-powered applications — and continuously learning by building.
 
-![iyush05's Stats](https://github-readme-stats.vercel.app/api?username=iyush05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![iyush05's Stats] (https://awesome-github-stats.azurewebsites.net/user-stats/iyush05?cardType=github&theme=github-dark&fontFamily=Roboto%20Mono&preferLogin=true)
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering.
+- 🎓 Pursuing Bachelor's in Computer Science and Engineering  
+- 💻 Full-stack developer focused on scalable and real-world applications  
+- 🤖 Interested in Machine Learning, LLMs, and AI-powered systems  
+- 🛠️ Actively building personal projects to solve real problems  
+- 🌍 Contributing to open-source projects and learning from real-world codebases  
+- 💼 Doing freelance work and collaborating on development projects  
+- 📚 Constantly learning and exploring new technologies  
 
+---
 
-## Tech Stack
+## 🧠 Tech Stack
 
-TypeScript, Nextjs, Tailwind, PostgreSQL, Prisma, Accelerate, AWS, Cloudflare workers, Javascript, redux, Nextauth
+### 🚀 Languages
+- TypeScript, JavaScript, Python, C++, Go (learning)
 
+### 🧩 Frontend
+- Next.js (App Router), React, Redux, Tailwind CSS, ShadCN UI
 
+### ⚙️ Backend
+- Node.js, Express, Hono
+
+### 🗄️ Databases & ORM
+- PostgreSQL, Prisma, Redis
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3), Cloudflare Workers, Docker, CI/CD basics
+
+### 🔐 Auth & Realtime
+- NextAuth, OAuth (Discord), WebSockets, Socket.io, WebRTC
+
+### 🤖 AI / ML
+- OpenAI API, Ollama (LLaMA), LangChain, RAG systems
+
+---
+
+## 🛠️ What I'm Building
+
+- AI-powered test generation system (with auto PR creation 🚀)
+- Lost & Found platform with semantic matching using LLMs  
+- Real-time apps using WebRTC and sockets  
+- File-sharing system with room-based access  
+- NLP-based “What Did I Miss?” summarization tool  
+
+---
 
 ## 📬 Get in Touch
 
-- Connect with me on X (https://x.com/iyush05)
+- X (Twitter): https://x.com/iyush05
+- Portfolio: https://www.iyush05.space/
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Let's build something amazing 🚀
