@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech CSE student and full-stack engineer, driven by curiosity for technology and a strong interest in building impactful software. I love exploring systems deeply — from backend architecture to AI-powered applications — and continuously learning by building.
 
-![iyush05's Stats]([https://awesome-github-stats.azurewebsites.net/user-stats/iyush05?cardType=github&theme=github-dark&fontFamily=Roboto%20Mono&preferLogin=true](https://awesome-github-stats.azurewebsites.net/user-stats/iyush05?cardType=github&theme=github-dark&fontFamily=Roboto%20Mono&preferLogin=true)](https://git.io/awesome-stats-card))
+![iyush05's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iyush05?cardType=github&theme=slateorange&fontFamily=Roboto%20Mono&preferLogin=true)
 
 ---
 
