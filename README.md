@@ -1,4 +1,4 @@
-# Hey, I'm Ayush 👋
+# Hey, I'm Ayush
 
 Full-stack engineer building real-world systems across web, realtime, and AI.
 
@@ -6,11 +6,11 @@ Full-stack engineer building real-world systems across web, realtime, and AI.
 
 ## About
 
-- 🎓 B.Tech CSE student  
-- 💻 Full-stack (frontend → backend → infra)  
-- 🤖 Exploring ML, LLMs, and RAG systems  
-- 🛠️ Build-first mindset — learn by shipping  
-- 🌍 Open source + freelance work  
+- B.Tech CSE student  
+- Full-stack (frontend → backend → infra)  
+- Exploring ML, LLMs, and RAG systems  
+- Build-first mindset — learn by shipping  
+- Open source + freelance work  
 
 ---
 
