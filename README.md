@@ -9,9 +9,9 @@
 
 ### About
 - B.Tech CSE student
-- Full-stack (frontend → backend → infra)
+- Full-stack (frontend -> backend -> infra)
 - Exploring ML, LLMs, and RAG systems
-- Build-first mindset — learn by shipping
+- Build-first mindset - learn by shipping
 - Open source + freelance work
 
 ---
@@ -43,15 +43,15 @@
 <td valign="top" width="50%">
 
 ### Projects
-- **Metaverse** — 2D Virtual World (Video Conferencing)
-- **AI Unit Test Generator** — automated PR workflows
-- **MeetingsAI** — AI Video Calling App
-- **AI App Builder** — generate mobile apps from prompts
-- **KapyBlog** — blogging platform with auth, likes, comments
-- **LLM-based Lost & Found** — semantic matching
-- **Realtime systems** — WebRTC + sockets
-- **Raven** — File Sharing Platform
-- **"What Did I Miss?"** — NLP thread summarizer
+- **Metaverse** - 2D Virtual World (Video Conferencing)
+- **AI Unit Test Generator** - automated PR workflows
+- **MeetingsAI** - AI Video Calling App
+- **AI App Builder** - generate mobile apps from prompts
+- **KapyBlog** - blogging platform with auth, likes, comments
+- **LLM-based Lost & Found** - semantic matching
+- **Realtime systems** - WebRTC + sockets
+- **Raven** - File Sharing Platform
+- **"What Did I Miss?"** - NLP thread summarizer
 
 ---
 
@@ -65,8 +65,8 @@
 
 ### Connect
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/iyush05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkannaujiya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23563D7C.svg?style=flat&logo=firefox&logoColor=white)](https://www.iyush05.space)
-
 </td>
 </tr>
 </table>
