@@ -1,63 +1,71 @@
-# Hi, I'm Ayush Kannaujiya! 👋
+# Hey, I'm Ayush 👋
 
-I am a passionate B.Tech CSE student and full-stack engineer, driven by curiosity for technology and a strong interest in building impactful software. I love exploring systems deeply — from backend architecture to AI-powered applications — and continuously learning by building.
-
-![iyush05's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iyush05?cardType=github&theme=slateorange&fontFamily=Roboto%20Mono&preferLogin=true)
+Full-stack engineer building real-world systems across web, realtime, and AI.
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 Pursuing Bachelor's in Computer Science and Engineering  
-- 💻 Full-stack developer focused on scalable and real-world applications  
-- 🤖 Interested in Machine Learning, LLMs, and AI-powered systems  
-- 🛠️ Actively building personal projects to solve real problems  
-- 🌍 Contributing to open-source projects and learning from real-world codebases  
-- 💼 Doing freelance work and collaborating on development projects  
-- 📚 Constantly learning and exploring new technologies  
+- 🎓 B.Tech CSE student  
+- 💻 Full-stack (frontend → backend → infra)  
+- 🤖 Exploring ML, LLMs, and RAG systems  
+- 🛠️ Build-first mindset — learn by shipping  
+- 🌍 Open source + freelance work  
 
 ---
 
-## 🧠 Tech Stack
+## Stack
 
-### 🚀 Languages
-- TypeScript, JavaScript, Python, C++, Go (learning)
+**Languages**  
+TypeScript · JavaScript · Python · C++ · Go (learning)
 
-### 🧩 Frontend
-- Next.js (App Router), React, Redux, Tailwind CSS, ShadCN UI
+**Frontend**  
+Next.js · React · Redux · Tailwind · shadcn/ui  
 
-### ⚙️ Backend
-- Node.js, Express, Hono
+**Backend**  
+Node.js · Express · Hono  
 
-### 🗄️ Databases & ORM
-- PostgreSQL, Prisma, Redis
+**Data**  
+PostgreSQL · Prisma · Redis  
 
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3), Cloudflare Workers, Docker, CI/CD basics
+**Infra**  
+AWS (EC2, S3) · Docker · Cloudflare · CI/CD  
 
-### 🔐 Auth & Realtime
-- NextAuth, OAuth (Discord), WebSockets, Socket.io, WebRTC
+**Realtime & Auth**  
+WebRTC · Socket.io · OAuth · NextAuth  
 
-### 🤖 AI / ML
-- OpenAI API, Ollama (LLaMA), LangChain, RAG systems
-
----
-
-## 🛠️ What I'm Building
-
-- AI-powered test generation system (with auto PR creation 🚀)
-- Lost & Found platform with semantic matching using LLMs  
-- Real-time apps using WebRTC and sockets  
-- File-sharing system with room-based access  
-- NLP-based “What Did I Miss?” summarization tool  
+**AI**  
+OpenAI · Ollama · LangChain · RAG  
 
 ---
 
-## 📬 Get in Touch
+## Projects
 
-- X (Twitter): https://x.com/iyush05
-- Portfolio: https://www.iyush05.space/
+- Metaverse — 2D Virtual World (Video Conferencing)
+- AI unit test generator with automated PR workflows
+- MeetingsAI — AI Video Calling App
+- AI App Builder - Generate mobile apps from prompts.
+- KapyBlog - Blogging platform with auth, likes, comments.
+- LLM-based Lost & Found (semantic matching)  
+- Realtime systems (WebRTC + sockets)  
+- Raven — File Sharing Platform
+- “What Did I Miss?” — NLP thread summarizer  
 
 ---
 
-Thanks for stopping by! Let's build something amazing 🚀
+## Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iyush05&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iyush05&theme=tokyo-night&hide_border=true)
+
+---
+
+## Connect
+
+- X → https://x.com/iyush05  
+- Portfolio → https://www.iyush05.space  
+
+---
+
+_Always building._
