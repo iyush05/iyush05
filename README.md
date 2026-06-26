@@ -39,6 +39,8 @@
 **AI**
 `OpenAI` `Ollama` `LangChain` `RAG`
 
+---
+
 ### Achievements
 <p align="center">
   <a href="https://cloud.layer5.io/user/c1310a17-1cf2-48b0-a876-08ce6bb2907f?tab=badges">
