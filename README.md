@@ -45,7 +45,7 @@
     <img
       src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
       alt="First Design Badge"
-      width="100"
+      width="150"
     />
   </a>
 </p>
