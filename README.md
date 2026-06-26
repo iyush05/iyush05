@@ -39,8 +39,10 @@
 **AI**
 `OpenAI` `Ollama` `LangChain` `RAG`
 
-**Achievements**
-[![Contributor](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/c1310a17-1cf2-48b0-a876-08ce6bb2907f?tab=badges)
+### Achievements
+<p align="center">
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="150"/>
+</p>
 
 </td>
 <td valign="top" width="50%">
