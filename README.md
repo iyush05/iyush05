@@ -50,6 +50,15 @@
       width="150"
     />
   </a>
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <a href="https://cloud.layer5.io/user/c1310a17-1cf2-48b0-a876-08ce6bb2907f?tab=badges&badge=certified-meshery-contributor">
+    <img
+      src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png"
+      alt="First Design Badge"
+      width="150"
+    />
+  </a>
 </p>
 
 </td>
